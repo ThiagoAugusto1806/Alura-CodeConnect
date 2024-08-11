@@ -2,7 +2,7 @@
 
 Este projeto é a tela de login do site ficticio Code Connect,o site foi desenvolvido com React.
 
-## 🎨 Possiveis tecnologias utilizadas:
+## 💻​ Tecnologias utilizadas:
 
 - HTML
 - CSS
